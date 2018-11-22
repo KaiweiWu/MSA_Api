@@ -1,0 +1,14 @@
+D:\MSA_Api\Api_01\Api_01\bin\Debug\netcoreapp2.1\Api_01.deps.json
+D:\MSA_Api\Api_01\Api_01\bin\Debug\netcoreapp2.1\Api_01.runtimeconfig.json
+D:\MSA_Api\Api_01\Api_01\bin\Debug\netcoreapp2.1\Api_01.runtimeconfig.dev.json
+D:\MSA_Api\Api_01\Api_01\bin\Debug\netcoreapp2.1\Api_01.dll
+D:\MSA_Api\Api_01\Api_01\bin\Debug\netcoreapp2.1\Api_01.pdb
+D:\MSA_Api\Api_01\Api_01\obj\Debug\netcoreapp2.1\Api_01.csprojAssemblyReference.cache
+D:\MSA_Api\Api_01\Api_01\obj\Debug\netcoreapp2.1\Api_01.csproj.CoreCompileInputs.cache
+D:\MSA_Api\Api_01\Api_01\obj\Debug\netcoreapp2.1\Api_01.RazorAssemblyInfo.cache
+D:\MSA_Api\Api_01\Api_01\obj\Debug\netcoreapp2.1\Api_01.RazorAssemblyInfo.cs
+D:\MSA_Api\Api_01\Api_01\obj\Debug\netcoreapp2.1\Api_01.AssemblyInfoInputs.cache
+D:\MSA_Api\Api_01\Api_01\obj\Debug\netcoreapp2.1\Api_01.AssemblyInfo.cs
+D:\MSA_Api\Api_01\Api_01\obj\Debug\netcoreapp2.1\Api_01.RazorTargetAssemblyInfo.cache
+D:\MSA_Api\Api_01\Api_01\obj\Debug\netcoreapp2.1\Api_01.dll
+D:\MSA_Api\Api_01\Api_01\obj\Debug\netcoreapp2.1\Api_01.pdb
